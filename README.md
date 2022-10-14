@@ -7,7 +7,7 @@
   ### Capa do projeto
 
 </div>
-<p align="center"><img width="max-width" src="./images/capa.png" alt=""></p>
+<p align="center"><img width="max-width" src="./images/Capa.png" alt=""></p>
 
 ---
 
