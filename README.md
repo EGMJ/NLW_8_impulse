@@ -39,13 +39,13 @@ Crie um diretório e siga os passos seguintes:
 
 ```bash
   # Entre na pasta criada
-    cd meu-diretório
+    $ cd meu-diretório
 
   # Clone o repositório
-    git clone https://github.com/EGMJ/NLW_8_impulse.git
+    $ git clone https://github.com/EGMJ/NLW_8_impulse.git
   
   # Entre no repositório
-    cd NLW_8_impulse
+    $ cd NLW_8_impulse
 ```
 
 ### Executando a aplicação localmente
