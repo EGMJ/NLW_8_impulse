@@ -38,13 +38,13 @@ Layout do projeto desenvolvido no [Figma](https://www.figma.com/community/file/1
 Crie um diretório e siga os passos seguintes:
 
 ```bash
-  # Entre na pasta criada
+    # Entre na pasta criada
     $ cd meu-diretório
 
-  # Clone o repositório
+    # Clone o repositório
     $ git clone https://github.com/EGMJ/NLW_8_impulse.git
   
-  # Entre no repositório
+    # Entre no repositório
     $ cd NLW_8_impulse
 ```
 
@@ -92,7 +92,7 @@ Crie um diretório e siga os passos seguintes:
     $ yarn prisma studio 
 ```
 ```bash
-# Mensagem no terminal:
+  # Mensagem no terminal:
     yarn run v1.22.19
     $ ts-node-dev src/server.ts
     [INFO] 19:54:09 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.1, typescript ver. 4.8.4)
@@ -124,7 +124,16 @@ Crie um diretório e siga os passos seguintes:
 
 #### [Mobile:](./mobile/README.md)
 ```bash
-  
+  # Executando o projeto mobile
+    
+    # Entra no diretório 
+    $ cd mobile 
+    
+    # Instala as dependências
+    $ yarn || npm install
+    
+    # Executa
+    $ expo start
 ```
 
 ### Próximos passos para melhorar a aplicação:
